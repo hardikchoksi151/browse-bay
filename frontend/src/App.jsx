@@ -3,6 +3,8 @@ import "./App.css";
 import "bootstrap/dist/css/bootstrap.min.css";
 import "@fortawesome/fontawesome-free/css/all.min.css";
 
+import "bootstrap/dist/js/bootstrap.min.js";
+
 // library imports
 import { Route, Routes, Navigate } from "react-router-dom";
 import { ToastContainer } from "react-toastify";
